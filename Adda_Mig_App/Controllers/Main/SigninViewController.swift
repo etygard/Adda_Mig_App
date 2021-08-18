@@ -12,7 +12,7 @@ import FBSDKLoginKit
 import FBSDKCoreKit
 
 import GoogleSignIn
-import FirebaseUI
+
 
 class MainNavigationController: UINavigationController {
 
